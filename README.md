@@ -3,6 +3,8 @@
 
 ## Frontend Developer // Ux/Ui Designer
 
+### Personal Info
+- 📈 I am working as Frontend developer
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
