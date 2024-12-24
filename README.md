@@ -1,4 +1,4 @@
-## Hi its Zerda 🦊
+## Hi, its Zerda 🦊
 
 ## Frontend Developer // Ux/Ui Designer
 
