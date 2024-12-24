@@ -1,10 +1,13 @@
-## Hi, its Zerda 🦊
+## Hi, its Zerda! 🦊
 ![glas](./assets/Banner0.jpg)
 
 ## Frontend Developer // Ux/Ui Designer
 
 ### Personal Info
-- 📈 I am working as Frontend developer
+- 📈 I’m currently working as Frontend developer
+- 🌱 I'm currently learning Python
+- 💬 Ask me about Web Development
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
