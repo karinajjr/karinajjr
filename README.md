@@ -1,5 +1,5 @@
 ## Hi, its Zerda 🦊
-![glas](./Banner0.jpg)
+![glas](./assets/Banner0.jpg)
 
 ## Frontend Developer // Ux/Ui Designer
 
@@ -20,8 +20,8 @@
 </div>
 
 ## Social Media
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+[![LinkedIn](./assets/linkedin.png)](https://www.linkedin.com/in/zerda-jursinova-5935a2296)
+[![Instagram](./assets/instagram.png)](https://www.instagram.com/jur.zerda/)
 
 <!--
 **karinajjr/karinajjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
