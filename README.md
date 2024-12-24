@@ -1,4 +1,6 @@
-## Hi its Zerda 
+## Hi its Zerda 🦊
+
+## Frontend Developer // Ux/Ui Designer
 
 <!--
 **karinajjr/karinajjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
