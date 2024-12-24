@@ -19,6 +19,10 @@
 
 </div>
 
+## Social Media
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+
 <!--
 **karinajjr/karinajjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
