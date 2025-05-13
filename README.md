@@ -1,4 +1,4 @@
-## Hi, its Zerda! 🦊
+## Hi, its Zerda! 
 ![glas](./assets/Banner0.jpg)
 
 ## Frontend Developer // Ux/Ui Designer
